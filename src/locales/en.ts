@@ -1,22 +1,22 @@
 export const en = {
   nav: {
     home: "Home",
-    apartments: "Apartments",
+    apartments: "Rooms",
     amenities: "Amenities",
     gallery: "Gallery",
     contact: "Contact",
     bookNow: "Book Now"
   },
   hero: {
-    subtitle: "BEACHFRONT LUXURY ACCOMMODATION",
-    title: "Experience Seaside Tranquility",
-    description: "Discover our exclusive collection of luxury beachfront apartments and hotel rooms, offering unparalleled comfort and breathtaking sea views.",
+    subtitle: "AN OASIS OF PEACE AND COMFORT",
+    title: "City Style Hotel",
+    description: "Experience comfort and elegance at our 3-star hotel & B&B in the heart of Dar es Salaam, offering modern amenities and exceptional hospitality.",
     bookStay: "Book Your Stay",
-    exploreApartments: "Explore Apartments",
+    exploreApartments: "Explore Rooms",
     scrollDown: "Scroll Down"
   },
   footer: {
-    description: "Luxurious beachfront apartments and hotel rooms with stunning sea views, offering the perfect blend of comfort and elegance for your dream vacation.",
+    description: "City Style Hotel - Your home away from home in Dar es Salaam. Experience comfort, hospitality, and convenience at our 3-star hotel & B&B.",
     quickLinks: "Quick Links",
     contact: "Contact",
     newsletter: "Newsletter",
@@ -39,7 +39,7 @@ export const en = {
   },
   testimonials: {
     title: "What Our Guests Say",
-    description: "Discover why our guests keep coming back to MareSereno for their seaside getaways."
+    description: "Discover why our guests love staying at City Style Hotel for their Dar es Salaam visits."
   },
   notFound: {
     title: "Page Not Found",
@@ -48,10 +48,10 @@ export const en = {
   },
   home: {
     welcome: {
-      subtitle: "Welcome to MareSereno",
-      title: "Luxury Seaside Accommodations",
-      description1: "Nestled on the pristine Mediterranean coastline, MareSereno offers an exquisite collection of luxury apartments and hotel rooms. Our beachfront accommodations combine elegant design with modern comfort, creating the perfect setting for an unforgettable seaside getaway.",
-      description2: "Whether you're seeking a romantic escape, a family vacation, or a peaceful retreat, our diverse range of accommodations caters to every preference and need. Each space is thoughtfully designed to provide panoramic sea views and direct beach access.",
+      subtitle: "Welcome to City Style Hotel",
+      title: "Your Urban Oasis in Dar es Salaam",
+      description1: "Located in the vibrant Sinza Mugabe area of Dar es Salaam, City Style Hotel offers comfortable accommodations with modern amenities. Our 3-star hotel & B&B combines contemporary design with warm Tanzanian hospitality, creating the perfect setting for business and leisure travelers.",
+      description2: "Whether you're visiting for business, exploring the city, or enjoying a romantic getaway, our thoughtfully designed rooms and excellent service ensure a memorable stay. Experience the best of urban comfort in the heart of Tanzania's largest city.",
       learnMore: "Learn More"
     },
     booking: {
@@ -62,9 +62,9 @@ export const en = {
     },
     featuredApartments: {
       subtitle: "Our Accommodations",
-      title: "Featured Apartments",
-      description: "Discover our most popular accommodation options, each offering a perfect blend of comfort, style, and breathtaking sea views.",
-      viewAll: "View All Apartments"
+      title: "Featured Rooms",
+      description: "Discover our comfortable rooms and suites, each designed with modern amenities and thoughtful touches for your perfect stay.",
+      viewAll: "View All Rooms"
     },
     amenities: {
       subtitle: "Hotel Amenities",
@@ -72,40 +72,40 @@ export const en = {
       description: "Enjoy our premium facilities and services designed to make your stay exceptional.",
       features: {
         beachfront: {
-          title: "Beachfront Location",
-          description: "Direct access to pristine beaches with crystal clear waters."
+          title: "Prime Location",
+          description: "Located in the heart of Sinza Mugabe, close to business centers and attractions."
         },
         pools: {
-          title: "Swimming Pools",
-          description: "Relax by our infinity pools with stunning sea views."
+          title: "Swimming Pool",
+          description: "Relax by our refreshing swimming pool in a peaceful setting."
         },
         restaurant: {
-          title: "Gourmet Restaurant",
-          description: "Enjoy exquisite local and international cuisine."
+          title: "Restaurant & Dining",
+          description: "Enjoy delicious local Tanzanian cuisine and international dishes."
         },
         wifi: {
           title: "High-Speed Wi-Fi",
-          description: "Stay connected with complimentary high-speed internet."
+          description: "Stay connected with complimentary high-speed internet throughout the hotel."
         },
         bar: {
-          title: "Beach Bar & Café",
-          description: "Refreshing drinks and snacks served right on the beach."
+          title: "Hotel Bar & Café",
+          description: "Unwind with refreshing drinks and light snacks in our comfortable lounge."
         },
         location: {
-          title: "Prime Location",
-          description: "Close to local attractions, shops, and restaurants."
+          title: "Central Location",
+          description: "Easy access to Dar es Salaam's business district, shops, and local attractions."
         }
       }
     },
     cta: {
-      title: "Ready for Your Dream Vacation?",
-      description: "Book your stay today and experience the perfect blend of luxury, comfort, and stunning sea views.",
+      title: "Ready for Your Perfect Stay?",
+      description: "Book your stay today and experience comfort, hospitality, and convenience at City Style Hotel in Dar es Salaam.",
       bookNow: "Book Now"
     }
   },
   apartments: {
-    title: "Our Apartments & Rooms",
-    subtitle: "Discover our selection of premium accommodations, ranging from cozy studios to luxurious penthouses.",
+    title: "Our Hotel Rooms",
+    subtitle: "Discover our selection of comfortable accommodations, ranging from single rooms to family suites.",
     filters: {
       guests: "Guests",
       anyGuests: "Any number of guests",
@@ -129,7 +129,7 @@ export const en = {
   },
   gallery: {
     title: "Photo Gallery",
-    subtitle: "Explore our seaside paradise through captivating imagery.",
+    subtitle: "Explore City Style Hotel through captivating imagery of our facilities and accommodations.",
     filters: {
       all: "All",
       exterior: "Exterior",
@@ -256,8 +256,8 @@ export const en = {
         answer: "Yes, we offer complimentary parking for all guests. Valet parking service is also available for an additional fee."
       },
       pets: {
-        question: "Are pets allowed in the apartments?",
-        answer: "We welcome pets in designated pet-friendly apartments. Please inform us in advance if you plan to bring a pet, as additional charges may apply."
+        question: "Are pets allowed in the hotel?",
+        answer: "We welcome pets in designated pet-friendly rooms. Please inform us in advance if you plan to bring a pet, as additional charges may apply."
       },
       breakfast: {
         question: "Is breakfast included in the room rate?",
@@ -268,41 +268,41 @@ export const en = {
         answer: "Yes, we offer airport transfers for an additional fee. Please contact our concierge at least 48 hours before your arrival to arrange transportation."
       },
       amenities: {
-        question: "What amenities are available at the property?",
-        answer: "Our property features swimming pools, a spa, restaurants, a beach bar, fitness center, and direct beach access. All apartments include Wi-Fi, air conditioning, and modern appliances."
+        question: "What amenities are available at the hotel?",
+        answer: "Our hotel features a swimming pool, restaurant, bar, fitness facilities, and complimentary Wi-Fi. All rooms include air conditioning, private bathrooms, and modern amenities for your comfort."
       }
     }
   },
   apartmentDescriptions: {
     "1": {
-      name: "Deluxe Sea View Suite",
-      description: "Luxurious suite with panoramic sea views, modern amenities, and a private balcony."
+      name: "Deluxe Double Room",
+      description: "Comfortable room with modern amenities, air conditioning, and city views."
     },
     "2": {
-      name: "Premium Family Apartment",
-      description: "Spacious apartment ideal for families, with full kitchen and stunning coastal views."
+      name: "Family Suite",
+      description: "Spacious suite perfect for families, with separate sleeping areas and modern facilities."
     },
     "3": {
-      name: "Executive Beach Studio",
-      description: "Elegant studio with direct beach access, modern design, and premium finishes."
+      name: "Standard Single Room",
+      description: "Cozy single room with essential amenities, perfect for business travelers."
     },
     "4": {
-      name: "Luxury Penthouse Suite",
-      description: "Exclusive top-floor suite with expansive terrace and panoramic sea views."
+      name: "Executive Suite",
+      description: "Premium suite with separate living area, perfect for business travelers and extended stays."
     },
     "5": {
-      name: "Classic Double Room",
-      description: "Comfortable hotel room with modern amenities and partial sea views."
+      name: "Twin Room",
+      description: "Comfortable twin room with two single beds, ideal for friends or colleagues traveling together."
     },
     "6": {
-      name: "Garden View Apartment",
-      description: "Peaceful apartment surrounded by lush gardens, just a short walk from the beach."
+      name: "Superior Room",
+      description: "Enhanced room with upgraded amenities and additional space for ultimate comfort."
     }
   },
   amenitiesPage: {
     title: "Our Amenities",
     subtitle: "Discover the luxury amenities and services that make your stay unforgettable.",
-    description: "At MareSereno, we are dedicated to providing a comprehensive and luxurious stay experience. From our beachfront services to wellness facilities, every detail has been curated to ensure maximum comfort and pleasure.",
+    description: "At City Style Hotel, we are dedicated to providing a comprehensive and comfortable stay experience. From our dining services to wellness facilities, every detail has been curated to ensure maximum comfort and pleasure.",
     categories: {
       wellness: {
         title: "Wellness & Relaxation",
